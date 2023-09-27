@@ -18,7 +18,9 @@ p {
 .navbar-light .navbar-nav .nav-link.active {
     color: rgb(232, 226, 226);
 }
-
+.photo-1 {
+    height: 200px;
+}
 .navbar-brand img {
     width: 40px;
 }
